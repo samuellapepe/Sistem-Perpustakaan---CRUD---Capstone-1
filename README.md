@@ -12,7 +12,7 @@ Sistem Perpustakaan AYES adalah program berbasis Python untuk mengelola koleksi 
 
     * *Peminjam hanya dapat melihat buku dan peminjaman dilkaukan pada Admin.
 
-2. Menampilkan Daftar Buku
+2. Menampilkan Daftar Buku dan Mencari Buku
 
     * Opsi untuk menampilkan semua buku atau mencari berdasarkan kategori tertentu (judul, penulis, genre, tahun).
 
